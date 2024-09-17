@@ -1,0 +1,14 @@
+h1{
+
+    text-align: center;
+    font-family:  "Playwrite PL" cursive, alerian;
+    /* font-style: italic; */
+    /* font-weight: 900; */
+    /* font-variant:small-caps; */
+    font-size: 6vw;
+} 
+p{
+    font-size: 21px;
+    /* font-family:; */
+    font-style: italic ;
+}  
